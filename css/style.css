@@ -1,0 +1,80 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: auto;
+    line-height: 2;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+p{
+  line-height: 2;
+}
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    top: 40px;
+    right: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom:300px;
+    left: 10%;
+}
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chess-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+#mountain{
+    height: 250px;
+}
